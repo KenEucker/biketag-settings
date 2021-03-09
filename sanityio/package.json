@@ -8,7 +8,10 @@
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
-    "build": "sanity build"
+    "dev": "sanity start",
+    "test": "sanity check",
+    "build": "sanity build",
+    "deploy": "sanity deploy"
   },
   "keywords": [
     "sanity"
@@ -23,7 +26,8 @@
     "@sanity/vision": "^2.2.6",
     "prop-types": "^15.7",
     "react": "^17.0",
-    "react-dom": "^17.0"
+    "react-dom": "^17.0",
+    "sanity-plugin-intl-input": "^5.0.0"
   },
   "devDependencies": {},
   "repository": {
