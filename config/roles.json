@@ -1,0 +1,10 @@
+{
+    "all": {
+        "paths": ["*"],
+        "subdomains": ["*"]
+    },
+    "pdx": {
+        "paths": ["*"],
+        "subddomains": ["portland"]
+    }
+}

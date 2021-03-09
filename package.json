@@ -1,0 +1,6 @@
+{
+  "name": "biketag-settings",
+  "dependencies": {
+    "clobfig": "^1.2.8"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "reddit": {
+        "includeLeaderboardInRedditPost": true,
+        "distinguishAsMod": true,
+        "assignFlair": true,
+        "approveNewPost": true,
+        "stickyNewPost": true,
+        "updateUserFlair": true
+    },
+
+    "template": "biketag1",
+
+    "page": {
+        "newGameImage": "https://i.imgur.com/CtJVstG.png",
+        "loginImage": "https://i.imgur.com/CtJVstG.png"
+    },
+
+    "meta": {
+        "url": "https://biketag.org",
+        "image": "https://i.imgur.com/CtJVstG.png",
+        "type": "article",
+        "title": "BikeTag!",
+        "description": "BikeTag.org is a place for people to see the most recent Bike Tags in their city and participate in the game in an easy and simple way, without needing to login to anything."
+    }
+}
