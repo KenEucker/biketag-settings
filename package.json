@@ -1,0 +1,29 @@
+{
+  "name": "biketag-settings",
+  "version": "1.0.0",
+  "description": "The central repository for configuration settings for all BikeTag projects ",
+  "main": "index.js",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "deepmerge": "^4.2.2",
+    "clobfig": "^1.2.8",
+    "inherits": "^2.0.3",
+    "path": "^0.12.7",
+    "util": "^0.10.4",
+    "process": "^0.11.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keneucker/biketag-settings.git"
+  },
+  "author": "Ken Eucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keneucker/biketag-settings/issues"
+  },
+  "homepage": "https://github.com/keneucker/biketag-settings#readme"
+}
