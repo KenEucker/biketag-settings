@@ -1,5 +1,8 @@
 {
   "name": "biketag-settings",
+  "scripts": {
+    "build": "node index.js --out --mod > dist/config.js"
+  },
   "dependencies": {
     "clobfig": "^1.2.8"
   }
