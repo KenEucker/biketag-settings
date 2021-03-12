@@ -1,7 +1,10 @@
 {
-  "name": "biketag-settings",
+  "name": "biketag-website",
   "scripts": {
-    "build": "node index.js --out --mod > dist/config.js"
+    "json": "node index.js --out --raw > dist/config.json",
+    "typed": "node index.js --out --type > dist/typed.json",
+    "build": "node index.js --out --mod > dist/config.js",
+    "sanity": "node index.js --out --sane > dist/sanity.js"
   },
   "dependencies": {
     "clobfig": "^1.2.8"
